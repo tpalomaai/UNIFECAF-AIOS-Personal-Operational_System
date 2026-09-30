@@ -121,25 +121,25 @@ flowchart TD
 ## 🖼️ Prints
 
 ### AI OS - Dashboard
-![AI OS - Dashboard](img/01-ai-os-dashboard.png)
+![AI OS - Dashboard](prints/01-ai-os-dashboard.png)
 
 ### Tarefas com Matriz de Eisenhower
-![Tarefas](img/02-tarefas-eisenhower.png)
+![Tarefas](prints/02-tarefas-eisenhower.png)
 
 ### AI OS - Página de Projetos
-![Projeto POS](img/03-pagina-projetos.png)
+![Projeto POS](prints/03-pagina-projetos.png)
 
 ### AI OS - Página Sessões
-![Sessões](img/04-pagina-sessoes.png)
+![Sessões](prints/04-pagina-sessoes.png)
 
 ### Daily Brief ("Iniciar meu dia")
-![Daily Brief](img/05-daily-brief.png)
+![Daily Brief](prints/05-daily-brief.png)
 
 ### Sessão de foco em ação
-![Sessão de foco](img/06-checkup-de-foco.png)
+![Sessão de foco](prints/06-checkup-de-foco.png)
 
 ### Estrutura do AI OS no Obsidian
-![Obsidian](img/07-obsidian-ai-os.png)
+![Obsidian](prints/07-obsidian-ai-os.png)
 
 ---
 
