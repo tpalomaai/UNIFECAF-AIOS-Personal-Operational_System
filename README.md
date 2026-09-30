@@ -4,7 +4,7 @@
 > Projeto da disciplina **Produtividade e Gestão do Tempo** — UniFECAF.
 
 **Autora:** Paloma Ai Tsuchinaga
-**🎥 Vídeo pitch:** [assistir aqui](COLE_O_LINK_DO_VIDEO)
+**🎥 Link para Vídeo Pitch no Youtube:** [Assistir Aqui.](https://www.youtube.com/watch?v=tILvuEAZgv0)
 
 ---
 
